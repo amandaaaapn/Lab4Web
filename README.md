@@ -142,28 +142,28 @@ Kelas   : TI.22.A1
 
 22.  Selanjutnya kita buka kembali browsernya untuk melihat hasil akhirnya.
 
-![lab4 akhir](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/272771a0-3d2a-4b10-ba36-01f6a3084028)
+![Screenshot (310)](https://github.com/amandaaaapn/Lab4Web/assets/115678845/b67f0340-d3d3-4b19-854b-0dc7679eda7c)
+
 
 # Pertanyaan dan Tugas
 
 1. Tambahkan Layout untuk menu About
 
    => buat single layout yang berisi deskripsi, portfolio, dll
+![Screenshot (312)](https://github.com/amandaaaapn/Lab4Web/assets/115678845/5b2a3644-6cab-4aea-86e3-4ac26b9b9ff0)
 
-   ![about 1](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/14c5dddf-9625-4ba1-817a-cb6a583b28bd)
+![Screenshot (313)](https://github.com/amandaaaapn/Lab4Web/assets/115678845/f875a177-f112-4bb7-b3d0-7ff081d4a991)
 
-![about 2](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/176dfed9-4280-4a4c-9731-deae17715074)
-
-![hasil about](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/8033b5a4-8df9-4099-bd65-ccd4b2f654a5)
+![Screenshot (311)](https://github.com/amandaaaapn/Lab4Web/assets/115678845/ab281721-65a2-4486-af7b-de66eb83b787)
 
 3. Tambahkan layout untuk menu Contact
 
    => yang berisi form isian: nama, email, message, dll
 
-![contact 1](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/7ea7f9bd-9fcf-4511-a5c2-917de29917b2)
+![Screenshot (315)](https://github.com/amandaaaapn/Lab4Web/assets/115678845/ce46bd96-36b7-41bd-b8ef-9d9c845c5cf5)
 
-![contact 2](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/134cc7e3-10c4-4650-b194-cada3fc42f89)
+![Screenshot (316)](https://github.com/amandaaaapn/Lab4Web/assets/115678845/90c71cfb-9e2a-4b74-98fd-df1ebe2d3a75)
 
-![hasil contact](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/0f9e0d4e-0816-4ea2-9765-df45a35fdf56)
+![Screenshot (314)](https://github.com/amandaaaapn/Lab4Web/assets/115678845/10f79b18-cb00-4495-a9c2-6dfae1aca6eb)
 
 # Sekian, Terima Kasih
